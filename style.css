@@ -1,0 +1,25 @@
+h1, h2, h3, p {
+    text-align:center;
+}
+a:link { color:blue;}
+a:visited { color:green;}
+a:hover   { color:purple;}
+a:active  { color:red;}
+
+header h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size:48px;
+    background-color:darkslategray;
+    color:cadetblue;
+    margin-bottom: -10px;
+    margin-top: 0px;
+}
+header h2{
+    font-family: 'Franklin Gothic M';
+    font-size: 22px;
+    background-color:darkslategray;
+    margin-top:0px;
+    margin-bottom: 30px;
+
+}
+
