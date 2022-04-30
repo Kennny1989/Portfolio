@@ -1,25 +1,35 @@
 h1, h2, h3, p {
     text-align:center;
 }
+/*making the links change color with different actions*/
 a:link { color:blue;}
 a:visited { color:green;}
 a:hover   { color:purple;}
 a:active  { color:red;}
-
+/*adding differnt style's to both headers*/
+hr{
+   height: 2px;
+   background-color: aliceblue;
+   border: 2px solid black; 
+}
 header h1{
-    font-family:'Times New Roman', Times, serif;
-    font-size:48px;
-    background-color:darkslategray;
-    color:cadetblue;
-    margin-bottom: -10px;
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
     margin-top: 0px;
 }
 header h2{
-    font-family: 'Franklin Gothic M';
-    font-size: 22px;
-    background-color:darkslategray;
-    margin-top:0px;
-    margin-bottom: 30px;
-
+    font-size:22px;
+    font-style: italic;
 }
-
+div{
+    background-color:lightslategray;
+}
+ body {
+    background-color:lightgray
+ }
+ footer h6 {
+     text-align: center;
+     margin-bottom: 5px;
+     margin-top: 10px;
+ }
