@@ -15,7 +15,7 @@ hr{
 header h1{
     font-size: 48px;
     font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 0px;
+    margin-bottom: 46px;
     margin-top: 0px;
 }/*giving header 2 own style*/
 header h2{
@@ -37,13 +37,12 @@ div{
      margin-top: 10px;
  }
  /*moving image*/
- .image{
+ .centeredImage{
  position: fixed;
- margin: auto;
- left: 0;
- right: 0;
- top: 0;
- bottom: 0;
+ top: 50%;
+ left: 50%;
+ margin-top: -50px;
+ margin-bottom: 150px;
  }
  
 
