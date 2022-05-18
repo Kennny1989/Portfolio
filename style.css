@@ -28,7 +28,7 @@ div{
 }
 /*giving the entier page color*/
  body {
-    background-color: #546678;
+    background-color: lightgray;
  }
  /*moving footer to center */
  footer h4 {
@@ -45,7 +45,7 @@ div{
  margin-bottom: 150px;
  }
  p, ul, ol, li{
-     font-size: 18px;
+     font-size: 16px;
  }
 
  
