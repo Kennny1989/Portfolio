@@ -37,6 +37,14 @@ div{
      margin-top: 10px;
  }
  /*moving image*/
- img{
-     padding-left: 180px;
+ .image{
+ position: fixed;
+ margin: auto;
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
  }
+ 
+
+ 
