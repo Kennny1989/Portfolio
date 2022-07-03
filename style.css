@@ -15,7 +15,7 @@ hr{
 header h1{
     font-size: 48px;
     font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 0px;
+    margin-bottom: 46px;
     margin-top: 0px;
 }/*giving header 2 own style*/
 header h2{
@@ -28,7 +28,7 @@ div{
 }
 /*giving the entier page color*/
  body {
-    background-color:lightgray
+    background-color: lightgray;
  }
  /*moving footer to center */
  footer h4 {
@@ -37,6 +37,17 @@ div{
      margin-top: 10px;
  }
  /*moving image*/
- img{
-     padding-left: 180px;
+ .centeredImage{
+ position: fixed;
+ top: 50%;
+ left: 50%;
+ margin-top: -50px;
+ margin-bottom: 150px;
  }
+ p, ul, ol, li{
+     font-size: 16px;
+ }
+
+ 
+
+ 
